@@ -1,0 +1,13 @@
+INPUT(
+./release\mainwindow.o
+./release\settingdialog.o
+./release\settingsioclass.o
+./release\treeitem.o
+./release\treemodel.o
+./release\main.o
+./release\qrc_editabletreemodel.o
+./release\moc_mainwindow.o
+./release\moc_settingdialog.o
+./release\moc_treeitem.o
+./release\moc_treemodel.o
+);

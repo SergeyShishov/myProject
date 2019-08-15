@@ -1,0 +1,2 @@
+Getting Started				How to familiarize yourself with Qt Designer		Getting Started				How to familiarize yourself with Qt Designer
+Designing a Component			Creating a GUI for your application			Getting Started				How to familiarize yourself with Qt Designer

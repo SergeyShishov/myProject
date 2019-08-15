@@ -1,0 +1,13 @@
+INPUT(
+./debug\mainwindow.o
+./debug\settingdialog.o
+./debug\settingsioclass.o
+./debug\treeitem.o
+./debug\treemodel.o
+./debug\main.o
+./debug\qrc_editabletreemodel.o
+./debug\moc_mainwindow.o
+./debug\moc_settingdialog.o
+./debug\moc_treeitem.o
+./debug\moc_treemodel.o
+);
